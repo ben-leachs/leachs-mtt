@@ -60,7 +60,7 @@ const persons = [
     }
   },
     {
-    name: "Leanne Mann",
+    name: "Leanne Rees",
     photo: "http://leachs.net/wordpress/wp-content/uploads/2020/03/Leanne-scaled.jpg",
     title: "Job Title",
     bio:
